@@ -18,17 +18,29 @@ I’m on a mission to become one of Pakistan’s most versatile data scientists,
 
 ### 💖 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Mariam-Rehan/Saiki-Kusuo-Chat">
-    <img src="project-icons/1.png" width="90"/><br>
-    <sub>SaikiGPT</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mariam-Rehan/barbie-enchanted-insights">
-    <img src="project-icons/2.png" width="90"/><br>
-    <sub>Barbie Insights</sub>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mariam-Rehan/Saiki-Kusuo-Chat">
+        <img src="project-icons/1.png" width="100"/><br>
+        <sub><b>Saiki AI</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mariam-Rehan/barbie-enchanted-insights">
+        <img src="project-icons/2.png" width="100"/><br>
+        <sub><b>Barbie Insights</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mariam-Rehan/aqi-pipeline">
+        <img src="project-icons/3.png" width="100"/><br>
+        <sub><b>Karachi AQI</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ### 💖 What fuels me?  

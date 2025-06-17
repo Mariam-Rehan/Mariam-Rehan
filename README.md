@@ -16,6 +16,20 @@ I’m on a mission to become one of Pakistan’s most versatile data scientists,
 <img src="https://i.pinimg.com/736x/2d/84/bd/2d84bdf4abd6f05f6efa07a5008d0d98.jpg" width="300"/>
 </div>
 
+### 💖 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Mariam-Rehan/Saiki-Kusuo-Chat">
+    <img src="project-icons/1.png" width="90"/><br>
+    <sub>SaikiGPT</sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mariam-Rehan/barbie-enchanted-insights">
+    <img src="project-icons/2.png" width="90"/><br>
+    <sub>Barbie Insights</sub>
+  </a>
+</p>
+
 
 ### 💖 What fuels me?  
 - 🎀 Anime, Barbie movies, and code that *actually* runs  
@@ -41,15 +55,6 @@ I’m on a mission to become one of Pakistan’s most versatile data scientists,
 ![Power BI](https://img.shields.io/badge/PowerBI-fec8d8?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-eecbf1?style=for-the-badge&logo=streamlit&logoColor=black)
 
----
-
-### 🌟 Projects I’ve waved my wand on:
-
-| Project | What I did |
-|-----------|--------|
-| **📡 Real-Time AQI Predictor** | Data + APIs + ML = forecasting air quality in Karachi. |
-| **🎧 Music & Mental Health Viz** | Does BPM heal your brain? Let’s find out with pretty charts! |
-| **💖 Barbie Characters Analysis** | Wanna learn more about the Barbie Universe through Tableau? |
 
 ---
 

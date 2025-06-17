@@ -16,30 +16,25 @@ I’m on a mission to become one of Pakistan’s most versatile data scientists,
 <img src="https://i.pinimg.com/736x/2d/84/bd/2d84bdf4abd6f05f6efa07a5008d0d98.jpg" width="300"/>
 </div>
 
+---
+
 ### 💖 Featured Projects
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/Mariam-Rehan/Saiki-Kusuo-Chat">
-        <img src="project-icons/1.png" width="200"/>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/Mariam-Rehan/barbie-enchanted-insights">
-        <img src="project-icons/2.png" width="200"/>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/Mariam-Rehan/aqi-pipeline">
-        <img src="project-icons/3.png" width="200"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Mariam-Rehan/Saiki-Kusuo-Chat">
+    <img src="project-icons/1.png" width="200"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mariam-Rehan/barbie-enchanted-insights">
+    <img src="project-icons/2.png" width="200"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mariam-Rehan/aqi-pipeline">
+    <img src="project-icons/3.png" width="200"/>
+  </a>
+</p>
 
-
-
+---
 
 ### 💖 What fuels me?  
 - 🎀 Anime, Barbie movies, and code that *actually* runs  

@@ -23,19 +23,16 @@ I’m on a mission to become one of Pakistan’s most versatile data scientists,
     <td align="center">
       <a href="https://github.com/Mariam-Rehan/Saiki-Kusuo-Chat">
         <img src="project-icons/1.png" width="100"/><br>
-        <sub><b>Saiki AI</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Mariam-Rehan/barbie-enchanted-insights">
         <img src="project-icons/2.png" width="100"/><br>
-        <sub><b>Barbie Insights</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Mariam-Rehan/aqi-pipeline">
         <img src="project-icons/3.png" width="100"/><br>
-        <sub><b>Karachi AQI</b></sub>
       </a>
     </td>
   </tr>

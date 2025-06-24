@@ -24,20 +24,16 @@ I’m on a mission to become one of Pakistan’s most versatile data scientists,
   <a href="https://github.com/Mariam-Rehan/Saiki-Kusuo-Chat" style="display:inline-block">
     <img src="project-icons/1.png" width="200" alt=" "/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Mariam-Rehan/barbie-enchanted-insights" style="display:inline-block">
     <img src="project-icons/2.png" width="200" alt=" "/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Mariam-Rehan/aqi-pipeline" style="display:inline-block">
     <img src="project-icons/3.png" width="200" alt=" "/>
   </a>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Mariam-Rehan/Zehni-AI" style="display:inline-block">
     <img src="project-icons/4.png" width="200" alt=" "/>
   </a>
-  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---

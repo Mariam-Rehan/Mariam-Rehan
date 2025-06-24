@@ -37,7 +37,7 @@ I’m on a mission to become one of Pakistan’s most versatile data scientists,
   <a href="https://github.com/Mariam-Rehan/Zehni-AI" style="display:inline-block">
     <img src="project-icons/4.png" width="200" alt=" "/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
